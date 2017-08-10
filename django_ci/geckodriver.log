@@ -1,0 +1,92 @@
+1502258053749	geckodriver	INFO	Listening on 127.0.0.1:54170
+1502258055613	mozprofile::profile	INFO	Using profile path C:\Users\jaemyun\AppData\Local\Temp\rust_mozprofile.d0DarY7hLvxr
+1502258055627	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe
+1502258055681	geckodriver::marionette	INFO	Connecting to Marionette on localhost:54199
+1502258057003	Marionette	WARN	Deprecated preference marionette.defaultPrefs.enabled detected, please use marionette.enabled
+1502258066385	Marionette	INFO	Listening on port 54199
+1502258067257	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/components/nsUrlClassifierListManager.js, line 287: NS_ERROR_NOT_INITIALIZED: Component returned failure code: 0xc1f30001 (NS_ERROR_NOT_INITIALIZED) [nsIUrlClassifierDBService.getTables]
+JavaScript error: resource://gre/components/nsUrlClassifierListManager.js, line 287: NS_ERROR_NOT_INITIALIZED: Component returned failure code: 0xc1f30001 (NS_ERROR_NOT_INITIALIZED) [nsIUrlClassifierDBService.getTables]
+1502258103836	Marionette	INFO	Ceased listening
+
+KLIB_SelfTest return : KLR_OK
+ionette	INFO	Listening on port 54399
+1502258074728	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/components/nsUrlClassifierListManager.js, line 287: NS_ERROR_NOT_INITIALIZED: Component returned failure code: 0xc1f30001 (NS_ERROR_NOT_INITIALIZED) [nsIUrlClassifierDBService.getTables]
+JavaScript error: resource://gre/components/nsUrlClassifierListManager.js, line 287: NS_ERROR_NOT_INITIALIZED: Component returned failure code: 0xc1f30001 (NS_ERROR_NOT_INITIALIZED) [nsIUrlClassifierDBService.getTables]
+1502258102380	Marionette	INFO	Ceased listening
+
+KLIB_SelfTest return : KLR_OK
+1502258128990	geckodriver	INFO	Listening on 127.0.0.1:55118
+1502258130885	mozprofile::profile	INFO	Using profile path C:\Users\jaemyun\AppData\Local\Temp\rust_mozprofile.s9ZIRHbvlnsJ
+1502258130904	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe
+1502258130934	geckodriver::marionette	INFO	Connecting to Marionette on localhost:55147
+1502258131825	Marionette	WARN	Deprecated preference marionette.defaultPrefs.enabled detected, please use marionette.enabled
+1502258135342	Marionette	INFO	Listening on port 55147
+1502258136153	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/components/nsUrlClassifierListManager.js, line 287: NS_ERROR_NOT_INITIALIZED: Component returned failure code: 0xc1f30001 (NS_ERROR_NOT_INITIALIZED) [nsIUrlClassifierDBService.getTables]
+JavaScript error: resource://gre/components/nsUrlClassifierListManager.js, line 287: NS_ERROR_NOT_INITIALIZED: Component returned failure code: 0xc1f30001 (NS_ERROR_NOT_INITIALIZED) [nsIUrlClassifierDBService.getTables]
+1502258162682	Marionette	INFO	Ceased listening
+
+KLIB_SelfTest return : KLR_OK
+ionette	INFO	Listening on port 55241
+1502258143520	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/components/nsUrlClassifierListManager.js, line 287: NS_ERROR_NOT_INITIALIZED: Component returned failure code: 0xc1f30001 (NS_ERROR_NOT_INITIALIZED) [nsIUrlClassifierDBService.getTables]
+JavaScript error: resource://gre/components/nsUrlClassifierListManager.js, line 287: NS_ERROR_NOT_INITIALIZED: Component returned failure code: 0xc1f30001 (NS_ERROR_NOT_INITIALIZED) [nsIUrlClassifierDBService.getTables]
+1502258161478	Marionette	INFO	Ceased listening
+
+KLIB_SelfTest return : KLR_OK
+1502258212160	geckodriver	INFO	Listening on 127.0.0.1:56125
+1502258214077	mozprofile::profile	INFO	Using profile path C:\Users\jaemyun\AppData\Local\Temp\rust_mozprofile.m8MkRGsmRPxa
+1502258214090	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe
+1502258214110	geckodriver::marionette	INFO	Connecting to Marionette on localhost:56154
+1502258214931	Marionette	WARN	Deprecated preference marionette.defaultPrefs.enabled detected, please use marionette.enabled
+1502258218649	Marionette	INFO	Listening on port 56154
+1502258219343	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/components/nsUrlClassifierListManager.js, line 287: NS_ERROR_NOT_INITIALIZED: Component returned failure code: 0xc1f30001 (NS_ERROR_NOT_INITIALIZED) [nsIUrlClassifierDBService.getTables]
+JavaScript error: resource://gre/components/nsUrlClassifierListManager.js, line 287: NS_ERROR_NOT_INITIALIZED: Component returned failure code: 0xc1f30001 (NS_ERROR_NOT_INITIALIZED) [nsIUrlClassifierDBService.getTables]
+1502258234325	Marionette	INFO	Ceased listening
+
+KLIB_SelfTest return : KLR_OK
+1502259665099	geckodriver	INFO	Listening on 127.0.0.1:56576
+1502259667008	mozprofile::profile	INFO	Using profile path C:\Users\jaemyun\AppData\Local\Temp\rust_mozprofile.kAtXE5i0wY6d
+1502259667019	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe
+1502259667037	geckodriver::marionette	INFO	Connecting to Marionette on localhost:56605
+1502259667838	Marionette	WARN	Deprecated preference marionette.defaultPrefs.enabled detected, please use marionette.enabled
+1502259671807	Marionette	INFO	Listening on port 56605
+1502259672285	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/components/nsUrlClassifierListManager.js, line 287: NS_ERROR_NOT_INITIALIZED: Component returned failure code: 0xc1f30001 (NS_ERROR_NOT_INITIALIZED) [nsIUrlClassifierDBService.getTables]
+JavaScript error: resource://gre/components/nsUrlClassifierListManager.js, line 287: NS_ERROR_NOT_INITIALIZED: Component returned failure code: 0xc1f30001 (NS_ERROR_NOT_INITIALIZED) [nsIUrlClassifierDBService.getTables]
+1502259688565	Marionette	INFO	Ceased listening
+
+KLIB_SelfTest return : KLR_OK
+1502259839679	geckodriver	INFO	Listening on 127.0.0.1:58624
+1502259841602	mozprofile::profile	INFO	Using profile path C:\Users\jaemyun\AppData\Local\Temp\rust_mozprofile.cL0r9K4jAvGG
+1502259841617	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe
+1502259841634	geckodriver::marionette	INFO	Connecting to Marionette on localhost:58664
+1502259842465	Marionette	WARN	Deprecated preference marionette.defaultPrefs.enabled detected, please use marionette.enabled
+1502259846333	Marionette	INFO	Listening on port 58664
+1502259846886	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/components/nsUrlClassifierListManager.js, line 287: NS_ERROR_NOT_INITIALIZED: Component returned failure code: 0xc1f30001 (NS_ERROR_NOT_INITIALIZED) [nsIUrlClassifierDBService.getTables]
+JavaScript error: resource://gre/components/nsUrlClassifierListManager.js, line 287: NS_ERROR_NOT_INITIALIZED: Component returned failure code: 0xc1f30001 (NS_ERROR_NOT_INITIALIZED) [nsIUrlClassifierDBService.getTables]
+1502259858209	Marionette	INFO	Ceased listening
+
+KLIB_SelfTest return : KLR_OK
+1502260351865	geckodriver	INFO	Listening on 127.0.0.1:64628
+1502260353769	mozprofile::profile	INFO	Using profile path C:\Users\jaemyun\AppData\Local\Temp\rust_mozprofile.6xA4SevVmtIb
+1502260353782	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe
+1502260353800	geckodriver::marionette	INFO	Connecting to Marionette on localhost:64657
+1502260354745	Marionette	WARN	Deprecated preference marionette.defaultPrefs.enabled detected, please use marionette.enabled
+1502260358382	Marionette	INFO	Listening on port 64657
+1502260359069	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/components/nsUrlClassifierListManager.js, line 287: NS_ERROR_NOT_INITIALIZED: Component returned failure code: 0xc1f30001 (NS_ERROR_NOT_INITIALIZED) [nsIUrlClassifierDBService.getTables]
+JavaScript error: resource://gre/components/nsUrlClassifierListManager.js, line 287: NS_ERROR_NOT_INITIALIZED: Component returned failure code: 0xc1f30001 (NS_ERROR_NOT_INITIALIZED) [nsIUrlClassifierDBService.getTables]
+1502260361262	Marionette	INFO	Ceased listening
+
+KLIB_SelfTest return : KLR_OK
+1502261558989	geckodriver	INFO	geckodriver 0.18.0
+1502261559116	geckodriver	INFO	Listening on 127.0.0.1:62406
+1502261561148	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1502261565968	Marionette	INFO	Listening on port 62438
+1502261566405	Marionette	WARN	TLS certificate errors will be ignored for this session
+1502261566558	Marionette	INFO	New connections will no longer be accepted

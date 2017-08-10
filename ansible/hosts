@@ -1,0 +1,2 @@
+[jenkins]
+52.231.31.60 ansible_ssh_pass=remann729717!& ansible_ssh_user=jaemyun
