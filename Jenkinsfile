@@ -4,7 +4,7 @@ pipeline {
 	stages {
 		stage('Build') {
 			steps {
-				echo '오호라!..'
+				echo 'pull request!..'
 			}
 		}
 	}
