@@ -4,7 +4,7 @@ from django.core.urlresolvers import resolve
 from estimate.models import Estimate
 from estimate.views import EstimateList
 
-from selenium import webdriver
+# from selenium import webdriver
 
 
 class EstimateURLsTestCase(TestCase):
