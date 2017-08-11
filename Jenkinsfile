@@ -1,10 +1,10 @@
 pipeline {
-	agent any
-
+	agent { docker 'python:3.5.1' }
+	
 	stages {
-		stage('Build') {
+		stage('build') {
 			steps {
-				echo 'pull request!!!!again!..'
+				sh 'python --version'
 			}
 		}
 	}
