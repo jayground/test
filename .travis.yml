@@ -1,5 +1,5 @@
- notifications:
-    slack: remann:PBe0TCsjxD76LBxiXAmdziF7
+notifications:
+  slack: remann:PBe0TCsjxD76LBxiXAmdziF7
 language: python
 python:
   - "3.5"
